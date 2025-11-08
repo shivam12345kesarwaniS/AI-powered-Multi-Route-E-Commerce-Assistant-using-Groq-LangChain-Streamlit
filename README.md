@@ -50,3 +50,5 @@ Streamlit UI
 | **Database** | SQLite |
 | **Data Handling** | Pandas, PandasQL |
 | **Environment Management** | Python-dotenv |
+
+<img width="1440" height="900" alt="Screenshot 2025-11-08 at 4 57 28 PM" src="https://github.com/user-attachments/assets/6878d231-2cca-4e5c-abec-2701afe25e3f" />
